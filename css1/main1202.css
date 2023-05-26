@@ -1,0 +1,31 @@
+.b1{
+    width: 219px;
+    border: 1px solid white;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    margin-left: -23px;
+    height: 40px;
+    font-weight: bold;
+    font-size: 18px;
+}
+.b2{
+    width: 200px;
+    height: 30px;
+    border: 1px solid white;
+    background-color: white;
+    color: black;
+}
+.g{
+    width: 600px;
+    height: 600px;
+    padding-top: 200px;
+    padding-left: 200px;
+    background-color: indianred;
+}
+.jumbotron{
+    width: 220px;
+    padding: 0 23px;
+}
+.tex{
+    font-size: 9.5px;
+}
